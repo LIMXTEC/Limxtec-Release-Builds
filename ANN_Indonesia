@@ -1,0 +1,239 @@
+[img]http://www.bitsend.info/public/Startgrafik.jpg[/img]
+
+
+[size=14pt][color=#08298A][b][url=http://forum.bitsend.info/]Forum BitSend [/url][/b][/color][/size]
+
+[size=14pt][color=#08298A][b]BSD - Bitsend Core 1.0.0.1[/b][/color][/size]
+
+http://www.bitsend.info Bitcointalk https://bitcointalk.org/index.php?topic=1370307
+
+Ada Coin Baru Gan, Namanya Bitsend, Silakan Dibaca ya.
+
+Rilis Pada Tanggal 14.02.2016
+
+Pada Versi 1.0.0.1 ada tambahan fungsi baru.
+
+    BitSend Diffbreak - Ini berfungsi untuk melindungi dari penambang yang mempunyai hashrate besar. Stelah 6 jam setiap penambang CPU pasti bisa mendapatkan blok baru.
+    KGW3 - Pengaturan KGW3 yang baru lebih pintardan mempunyai tingkat kesulitan baru dengan target 60 blok (Sebagai cadangan)
+    The new Version supports 4 MB blocks
+    We increased the TX fee's for more security (Blockspaming)
+
+Terjadi perubahan citra dari LimecoinX ke BitSend
+
+    GFX yang baru dan Namanya
+    Limecoinx ->BitSend
+    LIMX ->BSD
+    Adanya Protokol baru->70077
+
+[size=14pt][color=#08298A][b]Apa itu BitSend? Apakah Yang Berbeda?[/b][/color][/size]
+BitSend bukanlah proyek dengan jangka yang pendek. Bitsend adalah mata uang digital untuk setiap generasi.  POW dan POS mempunyai periode hingga 100 tahun.Ini merupakan distribusi yang adil. 
+BitSend bukan merupakan skema penipuan, dan juga 10 tahun atau 20 tahun yang akan datang anda masih bisa menambang Bitsend seperti hari ini. You can mine BSD without mining equipment. Anda hanya membutuhkan 5000 Bitsend dan sebuah server dengan alamat IP yang statis.
+
+[size=14pt][color=#08298A][b]Mengapa sebuah jaringan dalam waktu 6 menit?[/b][/color][/size]
+BitSend tidak bisa membuat ribuan blok yang kosong setiap hari. Bitsend tidak membuat koin yang terbaik dan aman. Hanya akan ada 240 blok yang dibuat setiap hari. 
+Jika anda ingin pembayaran yang cepat, anda dapat mengguankan "InstantX". Transaksi ini tidak memerlukan confirmasi. Keuntungan Selanjutnya yaitu sinkronisasi yang cepat ke clien dan ukuran harddisk yang berkurang.
+
+[size=14pt][color=#08298A][b]Mengapa hanya ada 525 Mio Koin?[/b][/color][/size]
+Ya 525 Mio BSD terlalu sedikit. Tetapi, akan didistribusikan secara lambat. Kami membuat sekitar 4.35 Mio BSD setiap tahunnya. Jadi, dalam 4 tahun kamu membuat sekitar 17,4 Mio BSD. Litecoin dibuat hari ini (setelah separuh blok pertama) dalam 4 tahun dibuat sekitar 21 Mio LTC.
+Keuntungannya adalah distribusi yang adil untuk generasi selanjutnya. 
+
+[size=14pt][color=#08298A][b]Jaringan Masternode[/b][/color][/size]
+Masternodes mempunyai node penuh, Sama halnya seperti jaringan, kecuali mereka harus memberikan level pelayanan servis ke jaringan dan  mempunyai perjanjian untuk berpartisipasi. Perjanjian tidak akan pernah hilang dan itu aman ketika Masternode beroperasi atau berjalan. Sehingga memperbolehkan penanam modal memberikan pelayanan ke jaringan, dan penanam modal akan mendapatkan bunga hasil investasi mereka dan mengurangi volatitas terhadap mata uang.
+Karena kenyataannya imbalan atau hariah dari Masternode mempunyai persentasi yang bersifat tetap dan jaringan Masternode adlah fluktuasi, Semoga Imbalan Maternode akan bervariasi sesuai jumlahnya saat aktif.
+
+[size=14pt][color=#08298A][b]Darksend[/b][/color][/size]
+DarkSend adlah nama dari percampuran desentralisasi implementasi sehingga menjadi gelap dan memberikan tingkat privasi yang lebih besar/ anonimnya untuk jaringan BitSend.
+
+Kesulitan ini dicapai dengan menggunakn node jaringan untuk memecah dan mengubah arus atau rute jalur uang sehingga sangat sulit untuk dilacak. Kesulitan selanjutnya menggunakan pool atau kolam berukuran sama besar yang membuat sulit yang identik dengan transaksi terutama bebrapa transaksi yang terjadi secra simultan, semuanya dengan jumlah yang sama.Beberapa ronde pencampuran bekerja sehiingga pelacakan akan semakin sulit, karena pemcampuran akan semakin meningkat.
+
+Proses ini membutuhkan waktu lebih banyak dari waktu transaksi transparan biasanya seperti waktu yang dibutuhkan untuk mengakomodasi penyatuan beberapa transaksi. Untuk menyelesaikan masalah ini, kemampuan pra pemcampuran koin sudah dilaksanakan sehingga dapat digunkan segera.
+[size=14pt][color=#08298A][b]InstantX[/b][/color][/size]
+InstantX adalah pelayanan yang memperbolehkan transaksi secara instan. Melalui sistem ini, masukan akan dikunci spesifikasi transaksi saja dan verifikasi dari konsensus terhadap Jaringan Masternode. Transaksi yang terjadi konflik dan blok akan di lepas atau dihapus. Jika konsensus tidak  dapat tercapai, validasi transaksi akan terjadi melalui konfirmasi blok standar. InstantX dapat memecahkan masalah keluaran dobel tanpa adanya konfirmasi lagi dari mata uang crypto lain seperti Bitcoin.[7]
+Saya mempunya Pekerjaan untuk BitSend.
+
+[size=14pt][color=#08298A][b]Dev Task[/b][/color][/size]
+Teknisi
+- Dompet penyimpanan untuk Android
+- Dompet penyimpanan untuk IOS
+- Dompet penyimpanan untuk TOR.
+- Pemangkasan Blockchain
+- Pengembang untuk koin Darksend ( Perbaikan)
+- antarmuka untuk kontrol objek (Penyewaan objek)
+
+Pemasaran
+- Forum yang simpel -sudah beres
+- Daftar BTC38
+- Daftar Bter
+- Daftar Poloniex
+
+[size=14pt][color=#08298A][b]Imbalan atau Hadiahnya[/b][/color][/size]
+
+20.000 BSD untuk masalah nomor 5 https://github.com/LIMXTEC/BitSend/issues/5
+
+
+[font=Courier][size=10pt][img width=160 height=40]http://www.bitsend.info/public/Download.png[/img]
+Versi Terbaru: v1.0.0.1 (15-02-2016)
+Sumber: https://github.com/LIMXTEC/BitSend
+https://sourceforge.net/projects/bitsend/
+Aplikasi: dalam pekerjaan[/size][/font]
+
+[url=https://sourceforge.net/projects/bitsend/files/][img width=90 height=90]http://www.bitsend.info/public/Mac.png[/img][/url][url=https://sourceforge.net/projects/bitsend/files/][img width=90 height=90]http://www.bitsend.info/public/Win32.png[/img][/url][url=https://sourceforge.net/projects/bitsend/files/][img width=90 height=90]http://www.bitsend.info/public/Linux64.png[/img][/url]
+
+[table]
+[tr]
+[td]
+[font=Courier][size=10pt][img width=160 height=40]http://www.bitsend.info/public/Specs.png[/img]
+Algoritma: X11
+Taransaksi yang dibutuhkan: 6 konfirmasi
+Jumlah koin: 525M
+Imbalan yang didapatkan setiap blok: 50 BSD
+Blok Waktu: 360 seconds
+
+[img width=160 height=40]http://www.bitsend.info/public/premine.png[/img]
+pra tambang: 1,34M (0.3% dari total koin)
+Digunakan: 24%
+0.42 M Pra tambang koin + 0.9 M Sudah ditambang LIM koin. 
+Koin ini dapat hilang atau dijual. Dari pengembang pertama "Anggota Iparn"
+Inofrmasi Lebih Lanjut: 
+[url=https://github.com/LIMXTEC/LIMX/blob/master/src/main.cpp#L1435]Alamat Sumber Pra penambang[/url]
+
+[img width=160 height=40]http://www.bitsend.info/public/Resources.png[/img]
+[url=https://www.bitsend.info]Situs web BitSend[/url]
+
+[img width=160 height=40]http://www.bitsend.info/public/Community.png[/img]
+
+[url=https://twitter.com/Bit_send]Twitter[/url]
+[url=http://forum.bitsend.info]Forum BitSend[/url]
+[color=#ecedf3]________________________________________[/color]
+
+[/td]
+
+
+[td]
+[color=#ecedf3]________________________________________[/color]
+[/td]
+
+[td]
+[font=Courier][size=10pt][img width=160 height=40]http://www.bitsend.info/public/Exchanges.png[/img]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-BSD]Bittrex[/url]
+[url=https://www.southxchange.com/Market/Book/BSD/BTC]Southxchange  |  [/url]  [url=https://www.cryptopia.co.nz/Exchange]Cryptopia[/url]
+[url=https://www.cryptopia.co.nz/Exchange]Cryptopia[/url]  |  [url=https://yobit.net/en/tradeBSD/BTC]Yobit New[/url]
+[url=https://www.coingather.com/exchange/BSD/BTC]Coingather[/url]
+[url=http://cointopay.com/]Cointopay | [/url] [url=https://btcpool.exchange/]BTC POOL[/url]
+
+[img width=160 height=40]http://www.bitsend.info/public/Pools.png[/img]
+[url=http://aikapool.com/bsd/index.php?page=statistics&action=pool]MPOS Aika[/url]
+[url=http://louhimo.club/]louhimo.clu[/url]
+[url=http://bsd.cryptopools.com]Cryptopools New BSD[/url]
+[url=http://www.zpool.ca/site/mining]Multipool Zpool[/url]
+[url=http://HashHungry.com]HashHungry New !![/url]
+
+[img width=160 height=40]http://www.bitsend.info/public/Solo.png[/img]
+rpcuser=nama pengguna
+rpcpassword=kata sandi
+rpcport=8800
+rpcallowip=127.0.0.1
+server=1
+daemon=1
+listen=1
+addnode=68.197.13.94:8886
+addnode=46.188.4.74:8886
+addnode=107.170.2.241
+addnode=45.58.51.22
+addnode=104.207.131.249
+addnode=68.197.13.94
+addnode=109.30.168.16
+addnode=31.41.247.133
+addnode=37.120.190.76
+addnode=5.230.218.51
+addnode=151.80.201.100
+addnode=195.54.3.213
+addnode=134.3.162.242
+
+[img width=160 height=40]http://www.bitsend.info/public/Explorer.png[/img]
+http://www.multifaucet.tk/index.php?blockexplorer=BSD
+
+[/td]
+[/tr]
+[/table]
+
+
+[size=14pt][color=#08298A][b]Macam-Macam yang lain[/b][/color][/size]
+
+    Menambang sendiri menggunakan CPU Miner:
+        Sumber: https://github.com/ig0tik3d/darkcoin-cpuminer-1.2c
+        Sumber: https://github.com/elmad/darkcoin-cpuminer-1.3-avx-aes  (Faster if you have the AES-NI instruction set)
+        Windows: http://dash.org/downloads/xcoin-miner.zip
+        Windows 1.2 avx-aes: http://dash.org/downloads/darkcoin-minerd-1.2c.zip
+        Windows 1.3 avx-aes: http://download.darkcoin.fr/darkCoin-cpuminer-1.3-avx-aes-windows-binaries.zip
+
+    Menambang sendiri menggunakan GPU Miner:
+        Sumber: https://github.com/prettyhatemachine/sph-sgminer
+        Windows: https://mega.co.nz/#!2JYXHDpD!OOiFOdsh5rnvk1zhz5niXENNzbgnw1UXwmFcicBzevI
+        phm’s bitcointalk thread: https://bitcointalk.org/index.php?topic=475795.0;all
+
+     Info nilai untuk dompet kertas:
+[code] name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
+ ("BitSend",  0x66, 0xcc, "7",    "X"    , "i7RDkQoKYNjGkVWe4zkZeKZN7PGZVjfzdX")[/code]
+
+     Nodes
+[code]
+addnode=68.197.13.94:8886
+addnode=46.188.4.74:8886
+addnode=107.170.2.241
+addnode=45.58.51.22
+addnode=104.207.131.249
+addnode=68.197.13.94
+addnode=109.30.168.16
+addnode=31.41.247.133
+addnode=37.120.190.76
+addnode=5.230.218.51
+addnode=151.80.201.100
+addnode=195.54.3.213
+addnode=134.3.162.242
+[/code]
+
+[size=14pt][color=#08298A][b]Laporan Keuangan BitSend[/b][/color][/size]
+
+[url=https://dl.dropboxusercontent.com/u/21000833/LIMX/Limx%20Trust/LIMX%20Report%202015.pdf]Unduh Laporan Keuangan 2015[/url]
+(Kami membuat laporan setiap tahun. Ini untuk tujuan lebih baik dan keamanan untuk investasi anda.) 
+
+[size=14pt][color=#08298A][b]Pemberian Secara cuma-cuma 3 tahun selanjutnya[/b][/color][/size]
+
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Giveaway.txt]Sekilas dan Daftar (Beginn 2014)[/url]
+
+[b]Stage 1 [2015] -Tutup-  [/b]
+[b]Stage 2 [2016] 100 K BSD [/b] dimulai pada maret 2016
+[b]Stage 3 [2017] 100 K BSD [/b]
+
+[size=14pt][color=#08298A][b]Dinding Pembelian Bitsend[/b][/color][/size]
+
+[B][size=14pt]Kami menjamin nilai minimum.[/size][/B]
+
+[B][size=14pt][COLOR=#08298A]Lembar Riwayat BTC[/COLOR][/size][/B]
+[COLOR=#08298A]20 SAT 12/2014
+100 SAT 01/2015
+100 SAT 02/2015
+125 SAT 03/2015
+125 SAT 04/2015
+300 SAT 05/2015
+300 SAT 06/2015
+500 SAT 07/2015
+600 - 750 SAT 08/2015
+400 - 500 SAT 09/2015
+300 - 500 SAT 10/2015
+300 - 500 SAT 11/2015
+250 - 300 SAT 12/2015
+100 - 100 SAT 01/2016
+100 - 200 SAT 02-2016
+200 - 300 SAT 03-2016
+[/COLOR]
+
+[size=14pt][color=#08298A][b]Catatan Rilis[/b][/color][/size]
+BitSend digunakan pada teknologi awal dari bitcoin. BitSend menggunakan sumber kode Dari [b]Bitcoin, Dash[/b], Dodgecoin, Franko, Megacoin, Digibyte dan Sumber Kode ditulis dari Pengembang "Limx Dev" ( Christian K. Germany)
+
+[size=14pt][color=#08298A][b]Pemasaran[/b][/color][/size]
+[b][size=14pt][url=https://bitcointalk.org/index.php?topic=507103.0]membeli CAT dengan BitSend![/url][/b]
+[url=https://bitcointalk.org/index.php?topic=507103.0][img width=300 height=125]https://i.imgur.com/tJnSJPz.png[/img][/url]
+
+http://cryptodatabase.net/coins.php?cat=B

@@ -1,0 +1,250 @@
+[img]https://dl.dropboxusercontent.com/u/21000833/LIMX/Osmangfx/Open/limx0-1%20change2.jpg[/img]
+
+[size=14pt][color=#08298A][b]BSD - Bitsend Core 1.0.0.1[/b][/color][/size]
+
+http://www.bitsend.info Bitcointalk https://bitcointalk.org/index.php?topic=895425.msg13884353#msg13884353
+
+Copyright (c) 2009-2015 Bitcoin Core Developers Copyright (c) 2014-2015 Dash Core Developers Copyright (c) 2014 Doge Core Developers Copyright (c) 2013 Dr Kimoto Chan Copyright (c) 2014-2015 LIMX Core Developers Copyright (c) 2016 BitSend Core Developers
+Release 14.02.2016
+
+La Version 1.0.0.1 ajoute de nouvelles fonctionnalités.
+
+    BitSend Diffbreak - Cette fonction protège la chaîne contre les énormes mineurs. Après 6 heures chaque mineur CPU est capable de créer de nouveaux blocs.
+    KGW3 - Le nouveau système KGW est maintenant plus intelligent et a un nouveau recalibrage après 60 blocs (Sauvegarde)
+    La nouvelle version supporte les blocs de 4 MB
+    Nous avons augmenté les frais de TX pour plus de sécurité (Spamming des blocs)
+
+Changement d'identité de LimecoinX à BitSend
+
+    Nouveaux graphismes et Nom
+    Limecoinx ->BitSend
+    LIMX ->BSD
+    Nouveau protocol 70077
+
+[size=14pt][color=#08298A][b]Qu'est-ce que BitSend ? Quelle est la différence ?[/b][/color][/size]
+BitSend n'est pas un projet à court-terme. C'est une devise privée et digitale pour toutes les générations. Les périodes POW et de POS s'étalent sur 100 Ans. Ceci étant pour une distribution juste. 
+BitSend n'a pas de division de la récompense par bloc ou de schéma pyramidal. Aussi dans 10 ans ou 20 ans vous pourrez miner BSD comme aujourd'hui. Vous pouvez miner BSD sans équipement de minage. Vous avez seulement besoin de
+5000 BSD et d'un server avec une adresse IP fixe.
+
+[size=14pt][color=#08298A][b]Pourquoi une chaîne 6 minutes ?[/b][/color][/size]
+BitSend ne génère pas des milliers de blocs vides chaque jour. Cela ne rend pas une monnaie meilleure ou plus sécurisée. Seulement 240 blocs seront générés par jour. 
+Pour un paiement rapide, vous pouvez utiliser "InstantX". Cette transaction nécessite seulement une confirmation. Le prochain avantage est une synchronisation du client rapide et moins de consommation de place sur le disque dur.
+
+[size=14pt][color=#08298A][b]Pourquoi 525 millions de pièces ?[/b][/color][/size]
+Oui 525 millions de pièces est beaucoup. Mais la distribution est très lente. Nous générons environ ~4,35 millions de BSD par an. Aussi en 4 ans  17,4 millions de BSD. Litecoin génère aujourd'hui (après la première division de la récompense par bloc) 21 millions de LTC en 4 ans.
+L'avantage est une distribution juste pour les générations à venir. 
+
+[size=14pt][color=#08298A][b]Réseau de Maîtres-nœuds[/b][/color][/size]
+Les maîtres-nœuds sont des nœuds complets, exactement comme dans le réseau Bitcoin, à l'exception qu'ils doivent fournir un niveau de service au réseau et qu'ils ont une obligation de caution pour participer.
+La caution n'est
+jamais perdue et est à l'abri tant que le Maître-nœud est en fonctionnement. Cela permet aux investisseurs de fournir un service au réseau, de gagner un intérêt sur leur investissement et de réduire la volatilité de la monnaie.
+
+
+Étant donné que le programme de récompense de Maître-nœuds a un pourcentage fixe et que le réseau de Maître-nœuds est fluctuant, la récompense des Maître-nœuds variera en fonction
+du nombre actuel de Maître-nœuds actifs
+
+
+[size=14pt][color=#08298A][b]Darksend[/b][/color][/size]
+DarkSend est le nom de l'implémentation d'un mixage décentralisé qui obscurcit et fournit un plus grand degré de vie privée et d'anonymité aux transactions du réseau BitSend. 
+
+L'obscurcissement est obtenu en utilisant un réseau de nœuds dans le but de casser et de dérouter le flux d'argent d'une manière dont il difficile de suivre la trace. Un obscurcissement plus approfondit prend place en utilisant plusieurs réserves d'argent de taille similaire qui rend plus difficile le fait de relier des montants similaire jusqu'à une certain transaction spécialement quand de multiples transactions ont lieu en même temps, toutes avec le même montant d'argent. Plusieurs couches de mixage sont employées donc suivre ces paiements devient extrêmement difficile au fur et à mesure que les couches de mixage s'amoncèlent.
+
+Ce procédé requiert plus de temps qu'une transaction transparente ordinaire vu que du temps est nécessaire pour accueillir la mise en commun de plusieurs transactions. Pour régler ce problème, la possibilité de pré-mixer les pièces a été implantée pour qu'il soit possible d'utiliser des pièces "anonymisées" dans l'immédiat. 
+
+[size=14pt][color=#08298A][b]InstantX[/b][/color][/size]
+InstantX est un service qui permet des transactions quasi-instantanées. À travers ce système, les entrées peuvent être bloquées à seulement certaines transactions et vérifiées par un consensus du réseau de Maîtres-nœuds. Les transactions et les blocs entrant en conflits sont rejetés. Si un consensus ne peut être atteint, la validation de la transaction a lieu grâce à une confirmation de bloc standard. InstantX résoud prétendument le problème de double-dépense sans le temps de confirmation plus long des autres crypto-monnaies telles que Bitcoin.[7]
+
+[font=Courier][size=10pt][img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Download.png[/img]
+Dernière version : v1.0.0.1 (15-02-2016)
+Source : https://github.com/LIMXTEC/LIMX
+Applicationss : en cours[/size][/font]
+
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Wallet%20Download/bitsend-osx64.zip][img width=90 height=90]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Mac.png[/img][/url][url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Wallet%20Download/BitsendWin%2B32_1.zip][img width=90 height=90]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Win32.png[/img][/url][url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Wallet%20Download/bitsend-linux64.zip][img width=90 height=90]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Linux64.png[/img][/url]
+
+[table]
+[tr]
+[td]
+[font=Courier][size=10pt][img width=160 height=40]https://developer.gulden.com/images/ann/specifications.png[/img]
+Algorithme : X11
+Transaction confirmations: 6
+Nombre total de pièces : 525M
+Récompense par bloc : 50 BSD
+Temps par bloc : 360 seconds
+
+[img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/premine.png[/img]
+Pré-minage : 1,34M (0,3% de toutes les pièces)
+Utilisé : 24%
+0,42 M de pièces pré-minées + 0,9 M pièces LIM déjà minées. 
+Ces pièces sont perdues ou vendues. Par le premier développeur "Membre Iparn"
+Plus d'informations : 
+[url=https://github.com/LIMXTEC/LIMX/blob/master/src/main.cpp#L1435[/url]
+
+[img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Resources.png[/img]
+https://www.bitsend.info
+
+[img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Community.png[/img]
+https://community.gulden.comhttps://twitter.com/Bit_send
+
+[/td]
+
+
+[td]
+[color=#ecedf3]_____________________[/color]
+[/td]
+
+[td]
+[font=Courier][size=10pt][img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Exchanges.png[/img]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-BSD]Bittrex
+[url=https://www.southxchange.com/Market/Book/BSD/BTC]Southxchange  |  [/url]  [url=https://www.cryptopia.co.nz/Exchange]Cryptopia[/url]
+[url=https://www.cryptopia.co.nz/Exchange]Cryptopia[/url]  |  [url=https://yobit.net/en/tradeBSD/BTC]Yobit New[/url]
+[url=https://www.coingather.com/exchange/BSD/BTC]Coingather[/url]
+[url=http://cointopay.com/]Cointopay | [/url] [url=https://btcpool.exchange/]BTC POOL[/url]
+
+[img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Pools.png[/img]
+[url=http://aikapool.com/bsd/index.php?page=statistics&action=pool]MPOS Aika[/url]
+[url=http://bsd.cryptopools.com]Cryptopools New BSD[/url]
+[url=http://www.zpool.ca/site/mining]Multipool Zpool[/url]
+[url=http://HashHungry.com]HashHungry New !![/url]
+
+[img width=160 height=40]https://developer.gulden.com/images/ann/solomining.png[/img]
+rpcuser=username
+rpcpassword=password
+rpcport=8800
+rpcallowip=127.0.0.1
+server=1
+daemon=1
+listen=1
+addnode=107.170.2.241:8886
+addnode=45.58.51.22:8886
+addnode=104.207.131.249:8886
+addnode=68.197.13.94:8886
+addnode=109.30.168.16:8886
+
+[img width=160 height=40]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Thread/Explorer.png[/img]
+http://www.multifaucet.tk/index.php?blockexplorer=BSD
+
+[/td]
+[/tr]
+[/table]
+
+
+[size=14pt][color=#08298A][b]Divers[/b][/color][/size]
+
+    Logiciel de minage autonome pour CPU :
+        Source: https://github.com/ig0tik3d/darkcoin-cpuminer-1.2c
+        Source: https://github.com/elmad/darkcoin-cpuminer-1.3-avx-aes  (Plus rapide si vous avez l'instruction AES-NI d'activée)
+        Windows: http://dash.org/downloads/xcoin-miner.zip
+        Windows 1.2 avx-aes: http://dash.org/downloads/darkcoin-minerd-1.2c.zip
+        Windows 1.3 avx-aes: http://download.darkcoin.fr/darkCoin-cpuminer-1.3-avx-aes-windows-binaries.zip
+
+    Logiciel de minage autonome pour GPU :
+        Source: https://github.com/prettyhatemachine/sph-sgminer
+        Windows: https://mega.co.nz/#!2JYXHDpD!OOiFOdsh5rnvk1zhz5niXENNzbgnw1UXwmFcicBzevI
+        phm’s bitcointalk thread: https://bitcointalk.org/index.php?topic=475795.0;all
+
+     Info La Valeur pour un Portefeuille papier :
+[code] name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
+ ("BitSend",  0x66, 0xcc, "7",    "X"    , "i7RDkQoKYNjGkVWe4zkZeKZN7PGZVjfzdX")[/code]
+
+     Nœuds
+[code]
+addnode=107.170.2.241:8886
+addnode=45.58.51.22:8886
+addnode=104.207.131.249:8886
+addnode=68.197.13.94:8886
+addnode=109.30.168.16:8886
+[/code]
+
+[size=14pt][color=#08298A][b]Rapport de Finance BitSend[/b][/color][/size]
+
+[url=https://dl.dropboxusercontent.com/u/21000833/LIMX/Limx%20Trust/LIMX%20Report%202015.pdf]Téléhcrager le Rapport de Finance 2015[/url]
+(Nous créerons chaque année un nouveau Rapport. Ceci dans le but d'une meilleure transparence et sécurité pour votre investissement.) 
+
+[size=14pt][color=#08298A][b]Giveawy's next 3 Years[/b][/color][/size]
+
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Giveaway.txt]Overviewlist (Début 2014)[/url]
+
+[b]Stage 1 [2015] -terminé-  [/b]
+[b]Stage 2 [2016] 100 K BSD [/b] débute en mars 2016
+[b]Stage 3 [2017] 100 K BSD [/b]
+
+[size=14pt][color=#08298A][b]Membres et Utilisateurs BitSend[/b][/color][/size]
+
+[b]Premier membre Limecoin[/b]
+"sylwt","lefichop","zxm7001","vindyne8",
+"platorin","foxy","Fercho","Jmtyra",
+"Rehael","s1ng","czvezda","altcoinherald","asaghost"
+"esotericizm","BitCoinDream","CryptoLaunch","louiseth1"
+"dimez","tricass","spicelord","USCMC2001"
+"AlfaONE","sebastiebass","elviselvis101","cinderpelt","ortchi"
+"MinermanNC","Matni","dstorm","neleonele","Blas"
+"rubberpool","bitluryz","Poolest"
+"Hamsterer","lucienlu","bluez69","Oldriga","bitluryz"
+"Nthused","TheCoinFinder","CZSpitfire","USCMC2001","xBK201"
+"djaliel","OmarGsPools","q327K091","scott0577","chiguireitor"
+"UGETHIT","cinderpelt","dstorm","neleonele"
+
+[b]Second membre LimecoinX/BitSend[/b]
+
+"jawitech","miningspree","mikerbiker6"
+"Odd Thomas","newcripto","anotherlateminer","q327K091","Hamuki"
+"Bobsurplus","JUmpy14","drays","LIMX SUPPORT","Erkallys"
+"IParn","mdtspain","TrackCoin","proletariat","BanzaiBTC"
+"Velgelm","Real14Hero","john_doe","NoobKidOnTheBlock","jc12345"
+"fenix79","cryptocrap","lentzaj","magaura","jelt14","AdamWhite"
+"johnywalker","TripleHeXXX","crypspert","LucD88","crackfoo"
+"shotgun1969","cryptodev35","M4ketech","minerpools","pineapples"
+"LucD88","pineapples","Dimitry","pol5","capslock42","mucalov91"
+"cvasy","orenz","blackmasker","vitha putri"
+"ukon","bms2013","BanzaiBTC","wildduck","kcanup"
+"stepmike","blizzen1","mamahdedeh","toshis.guru","Dimitry"
+"goto2013","SharpNieSharp","techbytes","Colonel Crouton"
+"Orestes","capslock42","seabirds","A-tM","popcoins"
+"vanyabios","*light*","mastertrader777","bioly"
+"iqlimasyadiqa","fydel","sick of life","Taiga"
+"FACKYOU1","AizenSou","octoplay","nara1892","sempak"
+"Havelivi","vizito","brownmon","OSMIUMCOIN","ainv42"
+"klenin","MikroTik","Black*M","KoRnZYSIEK","diks"
+
+[i][b]Membre Bitcointalk Magasins[/b][/i]
+"altcoin.center",
+
+[i][b]Membre Bitcointalk Explorateurs[/b][/i]
+"dcct", "GrinZ"
+
+[i][b]Membre Bitcointalk[/b][/i]
+"AikaPool","th3.r00t"
+
+[i][b]Membre Bitcointalk Plateforme d'échange[/b][/i]
+"BITDV","rapta","richiela","Cryptopia Exchange"
+
+[i][b]Traduction/teur Anglais (aide)[/b][/i]
+"Alexthesalamander "
+
+[i][b]Allemand[/b][/i]
+"ifightformerkel",
+
+[size=14pt][color=#08298A][b]Le Mur d'achat Bitsend[/b][/color][/size]
+
+[B][size=14pt]Nous garantissons la valeur minimale.[/size][/B]
+
+[B][size=14pt][COLOR=#08298A]Feuille de l'historique BTC[/COLOR][/size][/B]
+[COLOR=#08298A]20 SAT 12/2014
+100 SAT 01/2015
+100 SAT 02/2015
+125 SAT 03/2015
+125 SAT 04/2015
+300 SAT 05/2015
+300 SAT 06/2015
+500 SAT 07/2015
+600 - 750 SAT 08/2015
+400 - 500 SAT 09/2015
+300 - 500 SAT 10/2015
+300 - 500 SAT 11/2015
+250 - 300 SAT 12/2015
+100 - 100 SAT 01/2016
+100 - 200 SAT 02-2016
+[/COLOR]
+
+[size=14pt][color=#08298A][b]Remarques de Lancement[/b][/color][/size]
+BitSend utilise la technologie de la Chaîne de Blocs originale depuis Bitcoin. BitSend à utilisé du code source venant de [b]Bitcoin, Dash[/b], Dodgecoin, Franko, Megacoin, Digibyte et du Code Sourceécrit par le Développeur "Limx Dev" ( Christian K. Allemagne)
