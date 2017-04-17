@@ -68,7 +68,7 @@ Website: http://www.bitsend.info
 BitSend Forum: http://forum.bitsend.info 
 Bitcointalk: https://bitcointalk.org/index.php?topic=1370307[/size]
 
-
+[hr]
 [table][tr][td][color=#ecedf3]______________________________________________________[/color][BR]
 [size=13pt][color=#08298A][b]◢◤ Your Digital Network - Downloads[/b][/color][/size]
 Source code: https://github.com/LIMXTEC/BitSend
@@ -93,6 +93,7 @@ Block time: 180 seconds[/td][/tr][/table]
 [table]
 [tr]
 [td]
+[color=#ecedf3]________________________________[/color]
 [size=13pt][color=#08298A][b]Resources[/b][/color][/size]
 [url=http://www.bitsend.info]BitSend Website[/url]
 [url=http://coinmarketcap.com/currencies/bitsend/]Coinmarketcap[/url]
@@ -100,12 +101,19 @@ Block time: 180 seconds[/td][/tr][/table]
 [url=http://saldigi.info/coin/BSD]Saldigi Crypto Info[/url]
 [/td]
 [td]
+[color=#ecedf3]________________________________[/color]
 [size=13pt][color=#08298A][b]Paper Wallet[/b][/color][/size]
 [url=http://www.vanity-wallet.com/bsd/#]MyBitSend Paper Wallet Generator[/url]
 [/td]
 [td]
+[color=#ecedf3]________________________________[/color]
 [size=13pt][color=#08298A][b]Faucet[/b][/color][/size]
 [url=http://mybitsend.com/]MyBitSend Faucet[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Explorer[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url][/size]
 [/td]
 [/tr]
 
@@ -129,42 +137,33 @@ Block time: 180 seconds[/td][/tr][/table]
 [url=http://cryptobunch.com/]cryptobunch.com[/url]
 [url=http://bitzco.net]bitzco.net[/url]
 [/td]
+[td]
+[size=13pt][color=#08298A][b]Addnode[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=38.0]@Forum BitSend[/url]
+[/td]
 [/tr]
 [/table]
 
 [color=#ecedf3]________________________________________[/color]
+[hr]
 [table][tr][td]
-[size=13pt][color=#08298A][b]Explorer[/b][/color][/size]
 
-[b]With API[/b]
-[size=13pt][color=#08298A]▌[/color][/size][size=13pt][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url] (Webmaster: [url=https://bitcointalk.org/index.php?action=profile;u=221182]fairglu[/url])[/size]
-
-[b]Without API[/b]
-[size=13pt][color=#08298A]▌[/color][/size][size=13pt][url=http://cryptoguru.tk/index.php?Currency=BSD][b]Cryptoguru.tk[/b][/url] (Webmaster: [url=https://bitcointalk.org/index.php?action=profile;u=188159]GrinZ[/url])[/size]
-[/td][td]
-[size=13pt][color=#08298A][b]Get Bitsend[/b][/color][/size]
+[size=13pt][color=#08298A][b]Bitsend Network[/b][/color][/size]
 
 [size=13pt][color=#08298A][b]List of Pools[/b][/color][/size]
 [url=http://bitsend.info/forums/index.php?topic=40.0]@Forum BitSend[/url]
 
-[size=13pt][color=#08298A][b]XEVAN MINING[/b][/color][/size]
+[size=13pt][color=#08298A][b]Xevan Algo and Mining Tools[/b][/color][/size]
 [url=http://bitsend.info/forums/index.php?topic=95.0]@Forum BitSend[/url]
-
-[size=13pt][color=#08298A][b]Addnode[/b][/color][/size]
-[url=http://bitsend.info/forums/index.php?topic=38.0]@Forum BitSend[/url]
 [/td][/tr][/table]
 
-
 [size=13pt][color=#08298A][b]Airdrop and Promotions[/b][/color][/size]
-
-[img]https://dl.dropboxusercontent.com/u/21000833/Bitsend/Website/Airdrope.jpg[/img]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=18.0]Bitsend Airdrop[/url]
 
 [size=13pt][color=#08298A][b]BitSend Finance Report[/b][/color][/size]
 [url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2012-2015.pdf]Finance Report 12/2015[/url]
 [url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2006-2016.pdf]Finance Report 12/2016[/url]
-
-[size=13pt][color=#08298A][b]Whitepaper[/b][/color][/size]
-[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/Whitpaper%202016.pdf]Whitepaper in german[/url]
 
 [size=13pt][color=#08298A][b]Development & Technical Discussion[/b][/color][/size]
 [url=http://bitsend.info/forums/index.php?board=3.0]@Forum BitSend[/url]
