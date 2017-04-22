@@ -14,9 +14,12 @@ the social needs of consumers, who want simple, mobile, fast and secure payments
 [/td][td][color=#ecedf3]______________________________________________________[/color]
 [size=13pt][color=#08298A][b]10 MB Blockchain[/b][/color][/size]
 [size=8pt]We have chosen a medium block size in order to ensure a high potential transaction capacity. In return, this enables consumers to transact at a very low fee.[/size]
+
+[size=13pt][color=#08298A][b]Xevan Hash Algorithm[/b][/color][/size]
+[size=8pt]The Xevan Hash Algorithm is an unique combination from the dual X17 Difficulty Algorithm with an extension to 128 bits. It is our objective to have an algorithm that works for both CPU and GPU mining.[/size]
 [/td][td][color=#ecedf3]______________________________________________________[/color]
-[size=13pt][color=#08298A][b]Distribution with 4.35 Millions Coins per year[/b][/color][/size]
-[size=8pt]Bitsend has a slow distribution. The advantage of a slow generation and rollout is a fairer distrubution among existing and future BitSend users. The total target for the coin is: 210 Million Bitsend.[/size]
+[size=13pt][color=#08298A][b]DK3 Difficulty Algorithm[/b][/color][/size]
+[size=8pt]The DK3 Difficulty Algorithm was developed by the BitSend Team and combines the benefits of the "Kimoto Gravity Well 3" and parts of the retarget function of Bitcoin. After then exist a second filter with the attribution and deduction of the penultimate block. After 6 hours have passed without a new block, the BitSend Diffbreak kicks in and it is possible to create a block with the minimum difficulty. This also enables the creation of private chains from to the BitSend Mainchain.[/size]
 [/td][/tr][tr][td]
 [size=13pt][color=#08298A][b]Masternode Network[/b][/color][/size]
 [size=8pt]Masternodes are full nodes, just like in the Bitcoin network, except that they provide a level of service to the network and required collateral to participate. Collateral is never forfeit and is safe while the Masternode is operating. This allows investors to provide a service to the network, earn interest on their investment and reduce the volatility of the currency. In order to run a masternode, you're required to have 25 000 BSD and a static IP address.
@@ -80,12 +83,12 @@ Source code: https://github.com/LIMXTEC/BitSend
 [/td][td][color=#ecedf3]______________________________________________________[/color][BR]
 [size=13pt][color=#08298A][b]Specs[/b][/color][/size]
 Algorithm: XEVAN
-Masternodes [BR]10 MB Block size [BR]DUAL KGW3 
+Masternodes [BR]10 MB Block size [BR]DK3 Difficulty Algorithm
 250 KB transaction size
 Blockreward 25 BSD
 BitSend Diffbreak
 Transaction confirmations: 6
-Total coins: 210 MIO
+Total coins: 210 Million
 Block time: 180 seconds[/td][/tr][/table]
 
 [url=http://www.bitsend.info/][img]http://i.imgur.com/VGidsqH.gif[/img][/url]
@@ -178,24 +181,23 @@ Just fork one of our GitHub repositories at https://github.com/LIMXTEC/BitSend a
 [hr]
 
 [size=13pt][color=#08298A][b]Our Bitsend Team[/b][/color][/size]
-
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Organization -Founder:[/b] Chris - Germany Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
-
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Signature Manager - Core Consultant:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Twitter - Social Networking -Core Consultant:[/b] Steve - Germany Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Core Consultant - Mybitsend.com:[/b] Jon - Germany Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Core Consultant:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
-
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Technology Evangelist:[/b] Matthias - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
-
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Founder:[/b] Sebastian - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
-
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development GPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
-[size=11pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
+[size=9pt][color=#08298A][b]Development -Core -Android[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Organization -Founder:[/b] Chris - Germany Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
+[size=9pt][color=#08298A][b]Marketing[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Signature Manager - Core Consultant:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Twitter - Social Networking -Core Consultant:[/b] Steve - Germany Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Core Consultant - Mybitsend.com:[/b] Jon - Germany Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Core Consultant:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
+[size=9pt][color=#08298A][b]Supporter[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Technology Evangelist:[/b] Matthias - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Founder:[/b] Sebastian - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
+[size=9pt][color=#08298A][b]Miner Software[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development GPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
 [hr]
 
 [size=13pt][color=#08298A][b]Translations[/b][/color][/size]
