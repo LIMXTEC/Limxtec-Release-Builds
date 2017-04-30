@@ -8,14 +8,18 @@ kebutuhan sosial kita sebagai konsumen yang membutuhkan kesederhanaan, ringkas, 
 
 
 [table][tr][td][color=#ecedf3]______________________________________________________[/color]
-[size=13pt][color=#08298A][b]Apa itu BitSend? Apa perbedaannya?[/b][/color][/size]
-[size=8pt]BitSend adalah proyek jangka panjang. Ini adalah mata uang digital pribadi untuk setiap generasi. Periode POW dan POS berjalan 100 Tahun. Target utama adalah distribusi secara adil. BitSend tidak melakukan blockhalving atau skema ponzi. Juga dalam 10 tahun atau 20 tahun bisakah anda menambang BSD seperti hari ini. Anda dapat tambang BSD tanpa peralatan pertambangan. Anda hanya butuh 5000 BSD dan server dengan alamat IP statis.[/size]
+[size=13pt][color=#08298A][b]Bitsend Anda[/b][/color][/size]
+[size=8pt]BitSend adalah proyek jangka panjang. Ini adalah mata uang digital pribadi untuk setiap generasi. Periode POW akan berlangsung 100 Tahun terakhir (BitSend tidak memiliki subsidi blok separuh). Target utama koin adalah memastikan distribusi yang adil bagi penggunanya, dikombinasikan dengan sejumlah fitur penting. Ini berarti bahwa dalam 10, 20 tahun Anda masih bisa mendapatkan BSD saya pada tingkat yang sama seperti hari ini.[/size]
 [/td][td][color=#ecedf3]______________________________________________________[/color]
-[size=13pt][color=#08298A][b]Mengapa rantai 6 menit?[/b][/color][/size]
-[size=8pt]BitSend tidak menghasilkan seribu blok kosong setiap hari. Ini tidak membuat koin yang lebih baik atau aman. Hanya 240 blok akan dihasilkan setiap hari. keuntungan Anda adalah sinkronisasi klien yang cepat dan hemat ruang hard disk.[/size]
+[size=13pt][color=#08298A][b]10 MB Blockchain[/b][/color][/size]
+[size=8pt]Kami telah memilih ukuran blok menengah untuk memastikan kapasitas transaksi potensial yang tinggi. Sebagai gantinya, ini memungkinkan konsumen bertransaksi dengan biaya yang sangat rendah.[/size]
 [/td][td][color=#ecedf3]______________________________________________________[/color]
-[size=13pt][color=#08298A][b]Mengapa 4,35 Mio Coins dalam setahun?[/b][/color][/size]
-[size=8pt]Bitsend memiliki distribus yang lambat. Kita menghasilkan ~4.35 Mio BSD per tahun. Dalam 4 tahun juga 17,4 Mio BSD. Example: Litecoin menghasilkan hari ini (setekah blockhalving pertama) dalam 4 tahun 21 Mio LTC. Keuntungannya adalah  Distribusi yang adil untuk generasi selanjutnya. Dalam 32 tahub Bitsend memiliki ~139 MIO BSD.[/size]
+
+[size=13pt][color=#08298A][b]Algoritma Xevan Hash[/b][/color][/size]
+[size=8pt]Algoritma Xevan Hash adalah kombinasi unik dari Dual X17 Difficulty Algorithm dengan ekstensi hingga 128 bit. Ini adalah tujuan kami untuk memiliki algoritma yang bekerja untuk penambangan CPU dan GPU.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]Algortima Kesulitan DK3[/b][/color][/size]
+[size=8pt]Algoritma Kesulitan DK3 dikembangkan oleh Tim BitSend dan menggabungkan keunggulan "Kimoto Gravity Well 3" dan bagian dari fungsi retarget Bitcoin. Setelah itu ada filter kedua dengan atribusi dan pengurangan blok kedua dari belakang. Setelah 6 jam berlalu tanpa blok baru, BitSend Diffbreak akan dimulai dan memungkinkan untuk membuat blok dengan kesulitan minimum. Ini juga memungkinkan terciptanya rantai pribadi dari Bitchend Mainchain.[/size]
 [/td][/tr][tr][td]
 [size=13pt][color=#08298A][b]Jaringan Masternode[/b][/color][/size]
 [size=8pt]Masternodes adalah node adalah full nodes, seperti di jaringan Bitcoin, kecuali mereka harus memberikan tingkat pelayanan ke jaringan dan memiliki jaminan ikatan  untuk berpartisipasi. Jaminan tidak pernah hilang dan aman sementara Masternode beroperasi. Hal ini memungkinkan investor untuk menyediakan layanan untuk jaringan, mendapatkan bunga atas investasi mereka dan mengurangi volatilitas mata uang.
@@ -48,6 +52,158 @@ Proses ini membutuhkan waktu lebih dari transaksi transparan normal seperti wakt
 [img height=80]http://i.imgur.com/IZJnRnD.png[/img]
 
 https://bitsend.slack.com/
+Invitation link: https://bitsend.herokuapp.com/
+[/td]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/CIDej7n.png[/img]
+
+[size=10pt][size=10pt]Telegram channels:[/size][/size]
+
+[b]German[/b] https://t.me/joinchat/AAAAAEHiutM57DvtTaAXtw
+
+[b]English[/b] https://t.me/joinchat/AAAAAEAKtJWrRLq9J0P3Kg
+
+[b]Russian[/b] https://t.me/Bitsend
+
+The channels have a bot for tracking the price and the latest news. You are welcome!
+[/td]
+[/tr][/table]
+
+
+[size=13pt]
+Website: http://www.bitsend.info 
+BitSend Forum: http://forum.bitsend.info 
+Bitcointalk: https://bitcointalk.org/index.php?topic=1370307[/size]
+
+
+[table][tr][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]◢◤ Jaringan Digital Anda - Download[/b][/color][/size]
+Source: https://github.com/LIMXTEC/BitSend
+
+[url=https://sourceforge.net/projects/bitsend/files/][img width=90 height=90]http://www.bitsend.info/public/Mac.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Win32.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Linux64.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Android.png[/img][/url]
+
+[url=https://github.com/LIMXTEC/BitSend/releases][img]https://www.gstatic.com/android/web/play_prism_hlock_2x.png[/img][/url]
+[/td][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]Specs[/b][/color][/size]
+Algoritma: X17+ [BR](sebelum blok 240K X11) 
+Masternodes [BR]10 MB Ukuran Blok [BR]DUAL KGW3 
+250 KB ukuran transaksi
+BitSend Diffbreak
+Konfirmasi transaksi: 6
+Total koin: 43,5 MIO per 10 tahun
+Waktu Blok: 180 detik[/td][/tr][/table]
+
+[url=https://play.google.com/store/apps/details?id=hashengineering.bitsend.wallet&hl=en][img]https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png[/img][/url]
+
+[center][img]https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FVGidsqH.gif&t=576&c=U8UTmE8nRRs2Cg[/img][/center]
+[hr]
+
+[table]
+[tr]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Resources[/b][/color][/size]
+[url=http://www.bitsend.info]BitSend Website[/url]
+[url=http://coinmarketcap.com/currencies/bitsend/]Coinmarketcap[/url]
+[url=http://www.cryptosmile.com/2017/03/all-you-need-to-know-about-bitsend.html]Cryptosmile[/url]
+[url=http://saldigi.info/coin/BSD]Saldigi Crypto Info[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Dompet Kertas[/b][/color][/size]
+[url=http://www.vanity-wallet.com/bsd/#]MyBitSend Paper Wallet Generator[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Faucet/Keran[/b][/color][/size]
+[url=http://mybitsend.com/]MyBitSend Faucet[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Explorer[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url][/size]
+[/td]
+[/tr]
+
+[tr]
+[td]
+[size=13pt][color=#08298A][b]Merchants[/b][/color][/size]
+[url=http://bitcoin-engrave.com/]Bitcoin Engrave[/url]
+[url=https://www.topshelftoker.com]Topshelftoker[/url]
+[url=https://www.pexpeppers.com/]PexPeppers[/url]
+[url=https://bitcointalk.org/index.php?topic=507103.0]C.A.T.[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Komunitas[/b][/color][/size]
+[url=http://forum.bitsend.info]BitSend Forum[/url]
+[url=https://twitter.com/Bit_send]Twitter[/url]
+[url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[url=https://bitcointalk.org/index.php?topic=1856739]Banner Contest[/url]
+[url=http://bittogether.com]bittogether.com[/url]	
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Partner/Rekan[/b][/color][/size]
+[url=http://cryptobunch.com/]cryptobunch.com[/url]
+[url=http://bitzco.net]bitzco.net[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Addnode[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=38.0]@Forum BitSend[/url]
+[/td]
+[/tr]
+[/table]
+
+[color=#ecedf3]________________________________________[/color]
+[hr]
+
+[size=13pt][color=#08298A][b]Jaringan Bitsend[/b][/color][/size]
+
+[size=13pt][color=#08298A][b]Daftar Pools[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=40.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Xevan Algo and Alat tambang [/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=95.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Airdrop and Promosi[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=18.0]Bitsend Airdrop[/url]
+
+[size=13pt][color=#08298A][b]Laporan Keungan Bitsend[/b][/color][/size]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2012-2015.pdf]Finance Report 12/2015[/url]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2006-2016.pdf]Finance Report 12/2016[/url]
+
+[size=13pt][color=#08298A][b]Pengembangan & Diskusi Teknis[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?board=3.0]@Forum BitSend[/url]
+
+
+[size=13pt][color=#08298A][b]Bagaimana saya berkontribusi?[/b][/color][/size]
+
+Hanya satu fork pada GitHub kami di https://github.com/LIMXTEC/BitSend dan mulailah bekerja. Pengembang bekerja di jaringan mereka sendiri, lalu mengajukan permintaan saat mereka merasa perubahannya matang. Permintaan tarik ini kemudian dibahas di komunitas dan jika ada konsensus mereka ditarik cukup cepat.
+
+
+[hr]
+
+[size=13pt][color=#08298A][b]Tim Bitsend Kami[/b][/color][/size]
+[size=9pt][color=#08298A][b]Development -Core -Android[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Organization -Founder:[/b] Chris - Germany Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
+[size=9pt][color=#08298A][b]Marketing[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Signature Manager - Core Consultant:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Twitter - Social Networking -Core Consultant:[/b] Steve - Germany Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Core Consultant - Mybitsend.com:[/b] Jon - Germany Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Core Consultant:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
+[size=9pt][color=#08298A][b]Supporter[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Technology Evangelist:[/b] Matthias - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Founder:[/b] Sebastian - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
+[size=9pt][color=#08298A][b]Miner Software[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development GPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
+[hr]
+
 Invitation link: https://bitsend.herokuapp.com/
 [/td]
 [td]
