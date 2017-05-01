@@ -1,53 +1,215 @@
-[img]https://dl.dropboxusercontent.com/u/21000833/LIMX/Osmangfx/Open/limx0-1%20change2.jpg[/img]
-
-[size=14pt][color=#08298A][b]BSD - Bitsend Core 1.0.0.1[/b][/color][/size]
-
-http://www.bitsend.info Bitcointalk https://bitcointalk.org/index.php?topic=895425.msg13884353#msg13884353
-
-Copyright (c) 2009-2015 Bitcoin Core Developers Copyright (c) 2014-2015 Dash Core Developers Copyright (c) 2014 Doge Core Developers Copyright (c) 2013 Dr Kimoto Chan Copyright (c) 2014-2015 LIMX Core Developers Copyright (c) 2016 BitSend Core Developers
-Release 14.02.2016
-
-La Version 1.0.0.1 ajoute de nouvelles fonctionnalités.
-
-    BitSend Diffbreak - Cette fonction protège la chaîne contre les énormes mineurs. Après 6 heures chaque mineur CPU est capable de créer de nouveaux blocs.
-    KGW3 - Le nouveau système KGW est maintenant plus intelligent et a un nouveau recalibrage après 60 blocs (Sauvegarde)
-    La nouvelle version supporte les blocs de 4 MB
-    Nous avons augmenté les frais de TX pour plus de sécurité (Spamming des blocs)
-
-Changement d'identité de LimecoinX à BitSend
-
-    Nouveaux graphismes et Nom
-    Limecoinx ->BitSend
-    LIMX ->BSD
-    Nouveau protocol 70077
-
-[size=14pt][color=#08298A][b]Qu'est-ce que BitSend ? Quelle est la différence ?[/b][/color][/size]
-BitSend n'est pas un projet à court-terme. C'est une devise privée et digitale pour toutes les générations. Les périodes POW et de POS s'étalent sur 100 Ans. Ceci étant pour une distribution juste. 
-BitSend n'a pas de division de la récompense par bloc ou de schéma pyramidal. Aussi dans 10 ans ou 20 ans vous pourrez miner BSD comme aujourd'hui. Vous pouvez miner BSD sans équipement de minage. Vous avez seulement besoin de
-5000 BSD et d'un server avec une adresse IP fixe.
-
-[size=14pt][color=#08298A][b]Pourquoi une chaîne 6 minutes ?[/b][/color][/size]
-BitSend ne génère pas des milliers de blocs vides chaque jour. Cela ne rend pas une monnaie meilleure ou plus sécurisée. Seulement 240 blocs seront générés par jour. 
-Pour un paiement rapide, vous pouvez utiliser "InstantX". Cette transaction nécessite seulement une confirmation. Le prochain avantage est une synchronisation du client rapide et moins de consommation de place sur le disque dur.
-
-[size=14pt][color=#08298A][b]Pourquoi 525 millions de pièces ?[/b][/color][/size]
-Oui 525 millions de pièces est beaucoup. Mais la distribution est très lente. Nous générons environ ~4,35 millions de BSD par an. Aussi en 4 ans  17,4 millions de BSD. Litecoin génère aujourd'hui (après la première division de la récompense par bloc) 21 millions de LTC en 4 ans.
-L'avantage est une distribution juste pour les générations à venir. 
-
-[size=14pt][color=#08298A][b]Réseau de Maîtres-nœuds[/b][/color][/size]
-Les maîtres-nœuds sont des nœuds complets, exactement comme dans le réseau Bitcoin, à l'exception qu'ils doivent fournir un niveau de service au réseau et qu'ils ont une obligation de caution pour participer.
-La caution n'est
-jamais perdue et est à l'abri tant que le Maître-nœud est en fonctionnement. Cela permet aux investisseurs de fournir un service au réseau, de gagner un intérêt sur leur investissement et de réduire la volatilité de la monnaie.
+[quote author=CTSMaster link=topic=185.msg1327#msg1327 date=1493492856]
+[center]
+[img]http://i.imgur.com/qxkDmoO.png[/img]
+[size=13pt][color=#08298A][b]◢◤ Ton réseau numérique – Notre proposition[/b][/color][/size]
+Nous voulons une monnaie virtuelle utile, attractive, facile d’utilisation. Une monnaie qui réponde aux besoins de ses utilisateurs aussi bien au niveau de la simplicité d’utilisation et de la mobilité que de la vitesse et de la sécurité.
 
 
-Étant donné que le programme de récompense de Maître-nœuds a un pourcentage fixe et que le réseau de Maître-nœuds est fluctuant, la récompense des Maître-nœuds variera en fonction
-du nombre actuel de Maître-nœuds actifs
+
+[table][tr][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]Le projet BitSend en quelques mots[/b][/color][/size]
+[size=8pt]BitSend est un projet à long terme. C’est une devise numérique privée pouvant répondre aux besoins des générations actuelles et celle à venir. Le premier objectif de notre devise est d’assurer une distribution juste entre ses utilisateurs ainsi que de proposer une pléthore de fonctionnalités.
+La ‘POW’ ( https://fr.wikipedia.org/wiki/Preuve_d'enjeu ) s’étale sur les 100 prochaines années à venir (BitSend ne réduira pas les récompenses accordées aux participants durant cette période). Cela signifie que dans 10 ou 20 ans vous pourrez toujours miner du BitSend avec le même ratio qu’aujourd’hui.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]10MB Blockchain[/b][/color][/size]
+[size=8pt]Nous avons choisi une taille moyenne de 10MB afin d’assurer une grande capacité de transaction. En retour, cela autorise les utilisateurs à envoyer de très petites transactions.[/size]
+
+[size=13pt][color=#08298A][b]L’algorithme Xevan Hash[/b][/color][/size]
+[size=8pt]Cet algorithme est une combinaison unique du double algorithme de difficulté X17 avec une extension à 128 bits.
+Notre objectif est d'avoir un algorithme fonctionnel pour les mineurs, qu’ils utilisent un CPU ou un GPU.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]DK3 Difficulté de l’algorithme[/b][/color][/size]
+[size=8pt]L’algorithme DK3 a été dévelopé par l’équipe BitSend et combine les avantages du “Kimoto Gravity Well 3” et de certaines fonctions du Bitcoin.
+Aussi, il existe un filtre concernant l’attribution et la déduction de l’avant-dernier bloc. Après 6 heures sans nouveau bloc le BitSend Diffbreak se déclenche et il est possible de créer un bloc avec la difficulté minimale. Cela permet la création de chaînes privées annexes à la chaîne principale BitSend.[/size]
+[/td][/tr][tr][td]
+[size=13pt][color=#08298A][b]Masternode Network[/b][/color][/size]
+[size=8pt]Les Masternodes sont des noeuds complets, comme dans le réseau Bitcoin, à l’exception qu’ils doivent fournir un niveau de service au réseau et qu’ils ont une obligation de caution (25000 BSD) pour participer.
+La caution n’est jamais perdue et est à l’abri tant que le Masternode est en fonctionnement. Cela permet aux investisseurs de participer au réseau, de gagner un intérêt sur leur investissement et de réduire la volatilité de la monnaie.
+Étant donné que le programme de récompense de Masternode a un pourcentage fixe et que le réseau de Masternode est fluctuant, la récompense des Masternode variera en fonction du nombre actuel de Masternode actifs.[/size]
+[/td][td]
+[size=13pt][color=#08298A][b]Darksend[/b][/color][/size]
+[size=8pt]DarkSend est le nom de l'implémentation d'un mixage décentralisé qui obscurcit et fournit un plus grand degré de vie privée et d'anonymat aux transactions du réseau BitSend. 
+L'obscurcissement est obtenu en utilisant un réseau de nœuds dans le but de casser et de rediriger le flux d'argent de manière à brouiller sa trace. Un obscurcissement plus approfondit prend place en utilisant plusieurs réserves d'argent de taille similaire qui rend plus difficile le fait de relier des montants similaire spécialement quand de multiples transactions ont lieu en même temps, toutes avec le même montant d'argent. Plusieurs couches de mixage sont employées, donc suivre ces paiements devient extrêmement difficile au fur et à mesure que les couches de mixage s’amoncellent.
+Ce procédé requiert plus de temps qu'une transaction transparente ordinaire vu que du temps est nécessaire pour accueillir la mise en commun de plusieurs transactions. Pour régler ce problème, la possibilité de pré-mixer les pièces a été implantée pour qu'il soit possible d'utiliser des pièces "anonymisées" dans l'immédiat.[/size]
+[/td][td]
+[size=13pt][color=#08298A][b]InstantX[/b][/color][/size]
+[size=8pt]InstantX est un service qui autorise des transactions quasi-instantanées.
+À travers ce système, les entrées peuvent êtres bloquées à seulement certaines transactions et vérifiées par un consensus du réseau de Maîtres-nœuds. Les transactions et les blocs entrant en conflits sont rejetés. Si un consensus ne peut être atteint, la validation de la transaction a lieu grâce à une confirmation de bloc standard. InstantX résout le problème de double-dépense sans le temps de confirmation plus long des autres crypto-monnaies telles que Bitcoin.[/size]
+[/td][/tr][/table]
+
+[size=13pt][color=#08298A][b]Marchés proposant des BitSends[/b][/color][/size]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-BSD][img width=184 height=132]http://i.imgur.com/up8tkHh.jpg[/img][/url][url=https://livecoin.net/?from=Livecoin-rXMwBbyd][img width=184 height=132]http://i.imgur.com/YJ5SdUA.jpg[/img][/url][url=https://www.coingather.com/exchange/BSD/BT][img width=184 height=132]http://i.imgur.com/rvVEKZj.jpg[/img][/url][url=https://www.cryptopia.co.nz/Exchange][img width=184 height=132]http://i.imgur.com/eqY76PA.jpg[/img][/url][url=https://www.southxchange.com/Market/Book/BSD/BTC][img width=184 height=132]http://i.imgur.com/xTf4PbC.jpg[/img][/url]
+
+[hr]
+
+[size=13pt][color=#08298A][b]Slack - Telegram - Forum - Site web[/b][/color][/size]
+[table][tr]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/IZJnRnD.png[/img]
+
+https://bitsend.slack.com/
+Lien d'invitation: https://bitsend.herokuapp.com/
+[/td]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/CIDej7n.png[/img]
+
+[size=10pt][size=10pt]Canaux Telegram:[/size][/size]
+
+[b]German[/b] https://t.me/joinchat/AAAAAEHiutM57DvtTaAXtw
+
+[b]English[/b] https://t.me/joinchat/AAAAAEAKtJWrRLq9J0P3Kg
+
+[b]Russian[/b] https://t.me/Bitsend
+
+Les canaux ont un Bot pour suivre le cours et les nouvelles ! Vous êtes le bienvenu !
+[/td]
+[/tr][/table]
 
 
-[size=14pt][color=#08298A][b]Darksend[/b][/color][/size]
-DarkSend est le nom de l'implémentation d'un mixage décentralisé qui obscurcit et fournit un plus grand degré de vie privée et d'anonymité aux transactions du réseau BitSend. 
+[size=13pt]
+Site web: http://www.bitsend.info 
+Forum BitSend: http://forum.bitsend.info 
+Bitcointalk: https://bitcointalk.org/index.php?topic=1370307[/size]
 
-L'obscurcissement est obtenu en utilisant un réseau de nœuds dans le but de casser et de dérouter le flux d'argent d'une manière dont il difficile de suivre la trace. Un obscurcissement plus approfondit prend place en utilisant plusieurs réserves d'argent de taille similaire qui rend plus difficile le fait de relier des montants similaire jusqu'à une certain transaction spécialement quand de multiples transactions ont lieu en même temps, toutes avec le même montant d'argent. Plusieurs couches de mixage sont employées donc suivre ces paiements devient extrêmement difficile au fur et à mesure que les couches de mixage s'amoncèlent.
+[hr]
+[table][tr][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]◢◤ Ton réseau numérique - Télécharger[/b][/color][/size]
+Code source: https://github.com/LIMXTEC/BitSend
+
+[url=https://github.com/LIMXTEC/BitSend/releases/tag/BSD12610][img width=90 height=90]http://www.bitsend.info/public/Mac.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Win32.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Linux64.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Android.png[/img][/url]
+
+[url=https://play.google.com/store/apps/details?id=hashengineering.bitsend.wallet&hl=en][img]https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png[/img][/url]
+[/td][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]Spécifications[/b][/color][/size]
+Alogrithme: XEVAN
+Masternodes
+10 MB Block size
+DK3 Difficulty Algorithm
+Taille de transaction: 250 KB
+Récompense par bloc: 25 BSD
+BitSend Diffbreak
+Confirmation par transaction: 6
+Maximum d'unités en circulation: 210 Millions
+Temps par bloc: 180 secondes[/td][/tr][/table]
+
+[url=http://www.bitsend.info/][img]http://i.imgur.com/VGidsqH.gif[/img][/url]
+
+[hr]
+
+[table]
+[tr]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Ressources[/b][/color][/size]
+[url=http://www.bitsend.info]Site Web BitSend[/url]
+[url=http://coinmarketcap.com/currencies/bitsend/]Coinmarketcap[/url]
+[url=http://www.cryptosmile.com/2017/03/all-you-need-to-know-about-bitsend.html]Cryptosmile[/url]
+[url=http://saldigi.info/coin/BSD]Saldigi Crypto Info[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Portefeuille[/b][/color][/size]
+[url=http://www.vanity-wallet.com/bsd/#]MyBitSend Paper Wallet Generator[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Robinet[/b][/color][/size]
+[url=http://mybitsend.com/]MyBitSend Faucet[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Explorateur[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url][/size]
+[/td]
+[/tr]
+
+[tr]
+[td]
+[size=13pt][color=#08298A][b]Marchands[/b][/color][/size]
+[url=http://bitcoin-engrave.com/]Bitcoin Engrave[/url]
+[url=https://www.topshelftoker.com]Topshelftoker[/url]
+[url=https://www.pexpeppers.com/]PexPeppers[/url]
+[url=https://bitcointalk.org/index.php?topic=507103.0]C.A.T.[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Communauté[/b][/color][/size]
+[url=http://forum.bitsend.info]BitSend Forum[/url]
+[url=https://twitter.com/Bit_send]Twitter[/url]
+[url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[url=https://bitcointalk.org/index.php?topic=1856739]Banner Contest[/url]
+[url=http://bittogether.com]bittogether.com[/url]	
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Partenaires[/b][/color][/size]
+[url=http://cryptobunch.com/]cryptobunch.com[/url]
+[url=http://bitzco.net]bitzco.net[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Ajouter un nœud[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=38.0]@Forum BitSend[/url]
+[/td]
+[/tr]
+[/table]
+
+[color=#ecedf3]________________________________________[/color]
+[hr]
+
+[size=13pt][color=#08298A][b]Réseau BitSend[/b][/color][/size]
+
+[size=13pt][color=#08298A][b]Liste des mines[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=40.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Algorithme  Xevan et outils de minage[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=95.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Airdrop et Promotions[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=155.0]Campaña de Firma & Avatar[/url]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=18.0]Bitsend Airdrop[/url]
+
+[size=13pt][color=#08298A][b]Rapport financiers de Bitsend[/b][/color][/size]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2012-2015.pdf]Finance Report 12/2015[/url]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2006-2016.pdf]Finance Report 12/2016[/url]
+
+[size=13pt][color=#08298A][b]Développement et discussions techniques[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?board=3.0]@Forum BitSend[/url]
+
+
+[size=13pt][color=#08298A][b]Comment puis-je contribuer ?[/b][/color][/size]
+
+Faites juste un fork de nos dépôts GitHub à https://github.com/LIMXTEC/BitSend et commencez à travailler. Les développeurs travaillent dans leurs propres arbres, puis soumettent des requêtes lorsqu'ils pensent que leurs changements sont matures. Ces requêtes sont ensuite étudiées dans la communauté et, s'il y a consensus, elles sont rapidement mises en place.
+
+
+[hr]
+
+[size=13pt][color=#08298A][b]Notre équipe Bitsend[/b][/color][/size]
+[size=9pt][color=#08298A][b]Développement -Coeur -Android[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement -Coeur -Organisation -Fondateur:[/b] Chris - Germany Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement -Coeur -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement -Coeur:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement -Coeur -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
+[size=9pt][color=#08298A][b]Marketing[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Signature Manager - Core Consultant:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Twitter - Réseaux sociaux :[/b] Steve - Germany Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Cœur  - Mybitsend.com:[/b] Jon - Germany Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Cœur consultants:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
+[size=9pt][color=#08298A][b]Supporters[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Technology Evangelist:[/b] Matthias - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Fondateurs:[/b] Sebastian - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
+[size=9pt][color=#08298A][b]Logiciel de minage[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement GPU mineur :[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement CPU mineur:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Développement CPU mineur:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
+[hr]
+
+[size=13pt][color=#08298A][b]Traductions[/b][/color][/size]
+
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1391976.0][b]Italian[/b][/url] (Author: [url=https://bitcointalk.org/index.php?topic=1391976.0]davide72[/url])[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1371251][b]French[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=393895]Erkallys[/url])[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1371047.0][b]Russian[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=344996]diks[/url])[/size][size=13pt][color=#08298A]◢◤ [/color][/size]
+[size=13pt][url=https://bitcointalk.org/index.php?topic=1651452.0][b]Indonesian[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=389271]limxdev[/url])[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1412235][b]German[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=389271]limxdev[/url])[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1371065.0][b]Spanish[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=263438]SePhII2oTh[/url])[/size][size=13pt][color=#08298A]◢◤ 
+
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1149800.0][b]Philippines[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=3892711]limxdev[/url])[/size] [size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1882127.0][b]Turkey[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=389271]limxdev[/url])[/size]
+[/quote]
 
 Ce procédé requiert plus de temps qu'une transaction transparente ordinaire vu que du temps est nécessaire pour accueillir la mise en commun de plusieurs transactions. Pour régler ce problème, la possibilité de pré-mixer les pièces a été implantée pour qu'il soit possible d'utiliser des pièces "anonymisées" dans l'immédiat. 
 
