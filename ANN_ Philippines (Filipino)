@@ -1,0 +1,224 @@
+[ANN][BSD] BitSend -XEVAN -10MB- DK3 -Pamigay 477+ na Miyembro
+
+[center]
+
+[img]http://i.imgur.com/qxkDmoO.png[/img]
+
+[size=13pt][color=#08298A][b]◢◤ Ang Iyong Digital Network - ang aming paksa[/b][/color][/size]
+Gusto naming ng isang digital na salapi na kung saan ay kapaki-pakinabang, kaakit-akit at madaling gamitin. Ang isang salapi inangkop sa
+mga pangangailangan sosyal ng mga mamimili, na nais ng pang-cellphone, madaling, mabilis at secure na pagbabayad.
+
+
+
+[table][tr][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]Ang Iyong Bitsend[/b][/color][/size]
+[size=8pt]BitSend ay isang pangmatagalang proyekto. Ito ay pribadong digital na salapi para sa bawat henerasyon. Ang POW nito ay tatagal ng 33 taon (BitSend ay walang paghati ng block subsidy ). Ang pangunahing tampok ng cryptocoin ay upang masiguro ang isang patas na pamamahagi para sa mga gumagamit nito, kasama ng isang katerbang mahalagang mga tampok. Ibig sabihin nito ay sa loob ng 10, 20 taon ay makikita mo pa ring pwede pa rin magmina ng BSD sa parehong rate na kautlad sa ngayon.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]10 MB Blockchain[/b][/color][/size]
+[size=8pt]Pumili kami ng isang katamtamang laki ng bloke upang masiguro ang isang mataas na potensyal na kapasidad ng transaksyon. Bilang kapalit, ito ay nagbibigay-daan sa mga mamimili upang magkaroon sa isang murang bayaran.[/size]
+
+[size=13pt][color=#08298A][b]Xevan Hash Algorithm[/b][/color][/size]
+[size=8pt]Ang Xevan Hash algorithm ay isang natatanging kumbinasyon mula sa dual X17 Pinagkakahirapan Algorithm na may extension sa 128 bits. Ito ay ang aming layunin upang magkaroon ng isang algorithm na gumagana para sa parehong CPU at GPU mining.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]DK3 Difficulty Algorithm[/b][/color][/size]
+[size=8pt]The DK3 Difficulty Algorithm ay binuo sa pamamagitan ng BitSend Team at pinagsasama ang mga benepisyo ng "Kimoto Gravity Well 3" at bahagi ng retarget pag-andar ng Bitcoin. Pagkatapos ay umiiral ng isang pangalawang filter na may mga pagpapatungkol at pagbawas ng una sa huli block. Pagkatapos ng 6 na oras ang lumipas na walang isang bagong block, ang BitSend Diffbreak kicks in at ito ay posible upang lumikha ng isang bloke na may minimum na kahirapan. Ito din ay nagbibigay-daan sa paglikha ng mga pribadong kadena mula sa BitSend Mainchain.[/size]
+[/td][/tr][tr][td]
+[size=13pt][color=#08298A][b]Masternode Network[/b][/color][/size]
+[size=8pt]Masternodes ay full nodes, tulad ng sa Bitcoin network, maliban na nagbibigay sila ng isang antas ng serbisyo sa network at kinakailangan collateral upang lumahok. Collateral ay hindi kailanman mabaliwala at ligtas habang ang Masternode ay gumagana. Ito ay nagpapahintulot sa mga mamumuhunan upang magbigay ng serbisyo sa network, kumita ng interes sa kanilang mga pamumuhunan at mabawasan ang pagkasumpungin ng pera. Upang magpatakbo ng isang masternode, ikaw ay kinakailangan na magkaroon ng 25 000 BSD at isang static na IP address.
+
+Dahil sa likas na katangian ng Masternode premyo, ang halaga na ikaw ay pagpunta upang makatanggap ng ay nakasalalay sa kabuuang bilang ng mga aktibong Masternodes.[/size]
+[/td][td]
+[size=13pt][color=#08298A][b]Darksend[/b][/color][/size]
+[size=8pt]DarkSend ay ang pangalan ng desentralisado paghahalo pagpapatupad na tinatago at nagbibigay ng isang mas mataas na antas ng privacy / anonymity sa mga transaksyon ng BitSend network.
+Obfuscation ay nakakamit sa pamamagitan ng paggamit ng network nodes upang masira up at ibahin ang daan sa daloy ng pera sa isang paraan na ay mahirap na subaybayan ang down. Ang karagdagang obfuscation ay tumatagal ng lugar sa pamamagitan ng paggamit ng katulad sized pool ng pera na ginagawang mahirap upang i-pin-down magkakahawig na halaga sa isang tiyak na transaksyon lalo na kapag maramihang mga transaksyon ay nagaganap nang sabay-sabay, ang lahat na may parehong halaga ng pera. Maramihang mga rounds ng paghahalo ay nagtatrabaho upang ang pagsubaybay ng mga pagbabayad ay magiging lubha mahirap ng bilang ng paghahalo ng rounds ay nagtataas.
+
+Ang prosesong ito ay nangangailangan ng mas maraming oras kaysa sa normal na transparent na mga transaksyon tulad ng oras ang kinakailangan upang mapaunlakan ang pooling ng maramihang mga transaksyon. Upang malutas ang isyu na ito, ang kakayahang mag pre-mix ng mga barya ay naipatupad upang ang isa ay maaaring gamitin ang "hindi nakikilala" barya kaagad.[/size]
+[/td][td]
+[size=13pt][color=#08298A][b]InstantX[/b][/color][/size]
+[size=8pt]InstantX ay isang serbisyo na nagbibigay-daan para sa malapit-instant transaksyon. Sa pamamagitan ng system na ito, input ay maaaring naka-lock sa tanging mga tukoy na mga transaksyon at na-verify sa pamamagitan ng pinagkasunduan ng Masternode network. Magkasalungat na mga transaksyon at mga bloke ay tinanggihan. Kung ang isang pinagkasunduan ay hindi maabot, pagpapatunay ng transaksyon ay nangyayari sa pamamagitan ng standard block confirmation. InstantX sinasabing malulutas nito ang double-problema sa paggastos nang walang pangangailangan para sa mas mahabang oras ng pagkumpirma ng iba pang mga cryptocurrencies tulad ng Bitcoin.[/size]
+[/td][/tr][/table]
+
+[size=13pt][color=#08298A][b]Palitan[/b][/color][/size]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-BSD][img width=184 height=132]http://i.imgur.com/up8tkHh.jpg[/img][/url][url=https://livecoin.net/?from=Livecoin-rXMwBbyd][img width=184 height=132]http://i.imgur.com/YJ5SdUA.jpg[/img][/url][url=https://www.coingather.com/exchange/BSD/BT][img width=184 height=132]http://i.imgur.com/rvVEKZj.jpg[/img][/url][url=https://www.cryptopia.co.nz/Exchange][img width=184 height=132]http://i.imgur.com/eqY76PA.jpg[/img][/url][url=https://www.southxchange.com/Market/Book/BSD/BTC][img width=184 height=132]http://i.imgur.com/xTf4PbC.jpg[/img][/url]
+
+[size=13pt][color=#08298A][b]Serbisyo[/b][/color][/size]
+Bitsend ay isinama sa https://Coinpayments.net! Maaari mong madaling simulan ang iyong sariling mga tindahan o idagdag sa isang umiiral na tindahan ng opsyon upang tanggapin Bitsend bilang kabayaran.
+
+[img]http://i.imgur.com/qfRoPeb.png[/img]
+
+[hr]
+
+[size=13pt][color=#08298A][b]Slack - Telegram - Forum - Website[/b][/color][/size]
+[table][tr]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/IZJnRnD.png[/img]
+
+https://bitsend.slack.com/
+Link ng imbitasyon: https://bitsend.herokuapp.com/
+[/td]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/CIDej7n.png[/img]
+
+[size=10pt][size=10pt]Telegram channels:[/size][/size]
+
+[b]Aleman[/b] https://t.me/joinchat/AAAAAEHiutM57DvtTaAXtw
+
+[b]Ingles[/b] https://t.me/joinchat/AAAAAEAKtJWrRLq9J0P3Kg
+
+[b]Russo[/b] https://t.me/Bitsend
+
+Ang mga channel ay may isang bot para sa pagsubaybay sa presyo at ang mga pinakabagong balita. Ayos ba!
+[/td]
+[/tr][/table]
+
+
+[size=13pt]
+Website: http://www.bitsend.info 
+BitSend Forum: http://forum.bitsend.info 
+Bitcointalk: https://bitcointalk.org/index.php?topic=1370307[/size]
+
+[hr]
+[table][tr][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]◢◤  Ang iyong Digital Network - Downloads[/b][/color][/size]
+Source code: https://github.com/LIMXTEC/BitSend
+
+[url=https://github.com/LIMXTEC/BitSend/releases/tag/BSD12610][img width=90 height=90]http://www.bitsend.info/public/Mac.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Win32.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Linux64.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Android.png[/img][/url]
+
+[url=https://play.google.com/store/apps/details?id=hashengineering.bitsend.wallet&hl=en][img]https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png[/img][/url]
+[/td][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]Specs[/b][/color][/size]
+Algorithm: XEVAN
+Masternodes [BR]10 MB Block size [BR]DK3 Difficulty Algorithm
+250 KB laki ng transaksyon
+Blockreward 25 BSD
+BitSend Diffbreak
+Pagkumpirma ng transaksyon: 6
+Dami ng token : 210 Million
+Block time: 180 seconds[/td][/tr][/table]
+
+[hr]
+
+[table]
+[tr]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Resources[/b][/color][/size]
+[url=http://www.bitsend.info]BitSend Website[/url]
+[url=http://coinmarketcap.com/currencies/bitsend/]Coinmarketcap[/url]
+[url=http://www.cryptosmile.com/2017/03/all-you-need-to-know-about-bitsend.html]Cryptosmile[/url]
+[url=http://saldigi.info/coin/BSD]Saldigi Crypto Info[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Paper Wallet[/b][/color][/size]
+[url=http://www.vanity-wallet.com/bsd/#]MyBitSend Paper Wallet Generator[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Gripo[/b][/color][/size]
+[url=http://mybitsend.com/]Gripo ng MyBitSend[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Explorer[/b][/color][/size]
+
+[size=11pt][url=http://exp.mybitsend.com/][b]Exp.mybitsend.com[/b][/url][/size]
+[size=11pt][url=http://bitsend.midnightminer.net/][b]Midnightminer.net[/b][/url][/size] 
+[size=11pt][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url][/size]
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+[size=13pt][color=#08298A][b]Mga Mangangalakal[/b][/color][/size]
+[url=http://bitcoin-engrave.com/]Bitcoin Engrave[/url]
+[url=https://www.topshelftoker.com]Topshelftoker[/url]
+[url=https://www.pexpeppers.com/]PexPeppers[/url]
+[url=https://bitcointalk.org/index.php?topic=507103.0]C.A.T.[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Komunidad[/b][/color][/size]
+[url=http://forum.bitsend.info]BitSend Forum[/url]
+[url=https://twitter.com/Bit_send]Twitter[/url]
+[url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[url=https://bitcointalk.org/index.php?topic=1856739]Banner Contest[/url]
+[url=http://bittogether.com]bittogether.com[/url]	
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Mga Kasosyo[/b][/color][/size]
+[url=http://cryptobunch.com/]cryptobunch.com[/url]
+[url=http://bitzco.net]bitzco.net[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]Addnode[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=38.0]@Forum BitSend[/url]
+[/td]
+[/tr]
+[/table]
+
+[color=#ecedf3]________________________________________[/color]
+[hr]
+
+[size=13pt][color=#08298A][b]Bitsend Network[/b][/color][/size]
+
+[size=13pt][color=#08298A][b]Listahan of Pools[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=40.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Xevan Algo at Gamit pang Mina[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=95.0]@Forum BitSend[/url]
+
+[size=13pt][color=#08298A][b]Airdrop at Promotions[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=155.0]Signature & Avatar Campaign[/url]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=18.0]Bitsend Airdrop[/url]
+
+[size=13pt][color=#08298A][b]BitSend Salaysay pang finansyal[/b][/color][/size]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2012-2015.pdf]Finance Report 12/2015[/url]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2006-2016.pdf]Finance Report 12/2016[/url]
+
+[size=13pt][color=#08298A][b]Development & Technical Discussion[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?board=3.0]@Forum BitSend[/url]
+
+
+[size=13pt][color=#08298A][b]Paano ako makakatulong?[/b][/color][/size]
+
+Kumuha ng sariling kopya sa aming GitHub repository sa https://github.com/LIMXTEC/BitSend kasing ginagawa. Mga nag-develop gumana sa kanilang sariling mga puno, at pagkatapos ay magsumite ng mga kahilingan sa pull kapag sa tingin nila ang kanilang mga pagbabago ay mature. Ang mga mga pull kahilingan ay pagkatapos ay napag-usapan sa komunidad at kung may pinagkasunduan sila makakuha ng mahila sa medyo mabilis.
+
+
+[hr]
+
+[size=13pt][color=#08298A][b]Ang aming Bitsend Team[/b][/color][/size]
+[size=9pt][color=#08298A][b]Development -Core -Android[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Organization -Puno:[/b] Chris - Aleman Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development -Core -Android:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
+[size=9pt][color=#08298A][b]Marketing[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Signature Manager - Core Consultant:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Twitter - Social Networking -Core Consultant:[/b] Steve - Aleman Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Marketing - Core Consultant - Mybitsend.com:[/b] Jon - Aleman Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Core Consultant:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
+[size=9pt][color=#08298A][b]Panig[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Technology Evangelist:[/b] Matthias - Aleman Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Founder:[/b] Sebastian - Aleman Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
+[size=9pt][color=#08298A][b]Miner Software[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development GPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Development CPU Miner:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
+[hr]
+
+[size=13pt][color=#08298A][b]Pagsasalin[/b][/color][/size]
+
+[table][tr][td][color=#ecedf3]_____________________________________[/color]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1892979][b]Italiano[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1896201][b]Pranses[/b][/url] 
+[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1371047.0][b]Russo[/b][/url] (May-akda: [url=https://bitcointalk.org/index.php?action=profile;u=344996]diks[/url])[/size][size=13pt]
+[/td][td][color=#ecedf3]_____________________________________[/color]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1412235][b]Aleman[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1892665][b]Espanol[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1882127.0][b]Turko[/b][/url][/size]
+[/td]
+[/tr]
+[/table]
