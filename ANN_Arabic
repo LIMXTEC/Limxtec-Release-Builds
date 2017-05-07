@@ -1,0 +1,227 @@
+[ANN][BSD] BitSend -XEVAN -10MB- DK3 - 477+اسقاطات الاعضاء 🔹🔹🔹 Arabic
+
+[center][img]http://i.imgur.com/qxkDmoO.png[/img]
+
+[size=13pt][color=#08298A][b]◢◤ شبكتك الرقمية- وعدنا [/b][/color][/size]
+نحن نريد  عملة رقمية تكون مفيدة وجذابة وسهلة الاستخدام. عملة تتكيف مع
+الاحتياجات الاجتماعية للمستهلكين، الذين يريدون تحويلات نقدية بسيطة ومتنقلة وسريعة وآمنة
+
+
+
+[table][tr][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]الخاصة بك Bitsend[/b][/color][/size]
+[size=8pt] Bitsend هو مشروع على المدى الطويل. فهو عملة رقمية خاصة لكل الاجيال. فترة (الاسر) سوف تستمر 33 سنة (bitsend لاتقل به اعانات الدعم عن النصف). الهدف الرئيسي للعملة هو ضمان توزيع عادل لمستخدميها، جنبا إلى جنب مع عدد كبير من الميزات الهامة. وهذا يعني أنه في 10الى20 عاما سوف لا تزال قادرا على تحصيل العملة الرقمية bitsend بنفس المعدل اليوم.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]10 MB سلسلة الكتلة[/b][/color][/size]
+[size=8pt] لقد اخترنا كتلة متوسطة الحجم من أجل ضمان قدرة معاملات عالية المحتملة. وبالمقابل يتيح هذا الامر للمستهلكين للتعامل مع رسوم منخفضة جدا.[/size]
+
+[size=13pt][color=#08298A][b]Xevan Hash خوارزميات[/b][/color][/size]
+[size=8pt] خوارزميات Xevan Hashهي مزيج فريد من خوارزمية المزدوجة الصعوبة X17 مع امتداد إلى 128 بت. و هدفنا هو أن تعمل  الخوارزمية في التحصيل لCPU  وGPu على حد سواء.[/size]
+[/td][td][color=#ecedf3]______________________________________________________[/color]
+[size=13pt][color=#08298A][b]DK3 المعقدة خوارزميات[/b][/color][/size]
+[size=8pt] لقد وضعت خوارزمية   DK3 المعقدة من قبل فريق bitsend ويجمع بين فوائد " Kimoto Gravity Well 3 " واعادة تكوين لأجزاء من وظيفة bitcoin. بعد ذلك يوجد مرشح آخر يدعم ويقلل الكتلة قبل الأخيرة. بعد مرور 6 ساعات بدون كتلة جديدة،يتدخل bitsend ديفبرياك  ويصبح من الممكن خلق كتلة مع الحد الأدنى من الصعوبة. وهذا يتيح أيضا إنشاء سلاسل خاصة من السلسلة الرئيسية ل bitsend ه.[/size]
+[/td][/tr][tr][td]
+[size=13pt][color=#08298A][b]شبكة العقد الرئيسية[/b][/color][/size]
+[size=8pt] العقد الرئيسية هي العقد الكاملة، تماما كما هو الحال في شبكة bit coin، إلا أنها توفر مستوى من الخدمة للشبكة والضمانات المطلوبة للمشاركة. الضمانات تكون امنة وغير قابلة لمصادرة طالما أن العقد الرئيسية تعمل. وهذا يتيح للمستثمرين تقديم خدمة للشبكة، وكسب الفائدة على استثماراتهم وتقليل تقلب العملة. من أجل تشغيل عقدة رئيسية، يجب أن يكون لديك  BSD25 000  وعنوان IP ثابت.
+
+نظرا لطبيعة المكافآت العقد الرئيسة، والمبلغ الذي سوف تتلقاه يعتمد على العدد الإجمالي للعقد الرئيسية النشطة.[/size]
+[/td][td]
+[size=13pt][color=#08298A][b]Darksend[/b][/color][/size]
+[size=8pt] darksend هو اسم تطبيق خلط اللامركزية الذي يشوش ويوفر درجة أكبر من الخصوصية / عدم الكشف عن هويته التحويلات من شبكةbitsend .
+ويتحقق التشويش باستخدام عقد الشبكة من أجل تفكيك وإعادة توجيه تدفق المال بطريقة يصعب تعقبها. ويحدث مزيد من التشويش باستخدام أحجام مماثلة من المال مما يجعل من الصعب تحديد المبالغ المتطابقة إلى معاملة معينة خاصة عندما تحدث تحويلات متعددة في وقت واحد، وكل ذلك بنفس المبلغ من المال. وتستخدم جولات متعددة من الخلط بحيث تصبح عملية تتبع المدفوعات صعبة للغاية مع زيادة عدد جولات الخلط.
+
+وتتطلب هذه العملية وقتا أطول من التحويلات العادية مع الوقت اللازم لاستيعاب تجميع المعاملات المتعددة. لحل هذه المشكلة، وقد تم تنفيذ القدرة على مزيج ما قبل القطع النقدية بحيث يمكن أن يستخدم القطع النقدية المجهولة على الفور. [/size]
+[/td][td]
+[size=13pt][color=#08298A][b]InstantX[/b][/color][/size]
+[size=8pt] instantXهي الخدمة التي تسمح للمعاملات شبه الفورية. من خلال هذا النظام، يمكن تأمين المدخلات لمعاملات محددة فقط والتحقق منها بتوافق مع شبكة العقدة الرئيسية. يتم رفض المعاملات والكتل المتعارضة. إذا لم يتم التوصل إلى توافق ، يتم التحقق من المعاملة من خلال تأكيد الكتلة القياسية. instantX يفترض أن يحل مشكلة الإنفاق المزدوج دون الحاجة إلى فترات تأكيد أطول من عملية التشفير أخرى مثلbitcoin  .[/size]
+[/td][/tr][/table]
+
+[size=13pt][color=#08298A][b] التبادل [/b][/color][/size]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-BSD][img width=184 height=132]http://i.imgur.com/up8tkHh.jpg[/img][/url][url=https://livecoin.net/?from=Livecoin-rXMwBbyd][img width=184 height=132]http://i.imgur.com/YJ5SdUA.jpg[/img][/url][url=https://www.coingather.com/exchange/BSD/BT][img width=184 height=132]http://i.imgur.com/rvVEKZj.jpg[/img][/url][url=https://www.cryptopia.co.nz/Exchange][img width=184 height=132]http://i.imgur.com/eqY76PA.jpg[/img][/url][url=https://www.southxchange.com/Market/Book/BSD/BTC][img width=184 height=132]http://i.imgur.com/xTf4PbC.jpg[/img][/url]
+
+[size=13pt][color=#08298A][b]الخدمات[/b][/color][/size]
+يتم دمج Bitsend مع https://Coinpayments.net 
+يمكنك بسهولة بدء متجر الخاصة بك أو إضافة إلى القائمة!
+موجودة مسبقا لقبول bitsend كطريقة دفع.
+
+[img]http://i.imgur.com/qfRoPeb.png[/img]
+
+[hr]
+
+[size=13pt][color=#08298A][b]Slack - تلغرام - منتدى - موقع الكتروني[/b][/color][/size]
+[table][tr]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/IZJnRnD.png[/img]
+
+https://bitsend.slack.com/
+رابط الدعوة: https://bitsend.herokuapp.com/
+[/td]
+[td]
+[color=#ecedf3]____________________________________________[/color]
+[img height=80]http://i.imgur.com/CIDej7n.png[/img]
+
+[size=10pt][size=10pt]Telegram channels:[/size][/size]
+
+[b]الماني[/b] https://t.me/joinchat/AAAAAEHiutM57DvtTaAXtw
+
+[b]الانكليزي[/b] https://t.me/joinchat/AAAAAEAKtJWrRLq9J0P3Kg
+
+[b]الروسي[/b] https://t.me/Bitsend
+
+تحتوي القنوات على مشغل الي لتتبع السعر وآخر الأخبار. اهلا بك! 
+[/td]
+[/tr][/table]
+
+
+[size=13pt]
+الموقع الالكتروني: http://www.bitsend.info 
+BitSend منتدى: http://forum.bitsend.info 
+Bitcoinملتقى : https://bitcointalk.org/index.php?topic=1370307[/size]
+
+[hr]
+[table][tr][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]◢◤ شبكتك الرقمية - تنزيلات[/b][/color][/size]
+Source code: https://github.com/LIMXTEC/BitSend
+
+[url=https://github.com/LIMXTEC/BitSend/releases/tag/BSD12610][img width=90 height=90]http://www.bitsend.info/public/Mac.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Win32.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Linux64.png[/img][/url][url=https://github.com/LIMXTEC/BitSend/releases][img width=90 height=90]http://www.bitsend.info/public/Android.png[/img][/url]
+
+[url=https://play.google.com/store/apps/details?id=hashengineering.bitsend.wallet&hl=en][img]https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png[/img][/url]
+[/td][td][color=#ecedf3]______________________________________________________[/color][BR]
+[size=13pt][color=#08298A][b]Specs[/b][/color][/size]
+الخوارزمية: XEVAN
+العقد الرئيسية [BR]10 MB حجم الكتلة [BR]DK3 الخوارزمية المعقدة 
+250 KB المعاملات حجم
+عوائد الكتل 25 BSD
+BitSend دريفبريكر
+تاكيد التحويلات : 6
+اجمالي العملات: 210 Million
+وقت الكتلة: 180 ثانية[/td][/tr][/table]
+
+[hr]
+
+[table]
+[tr]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]المصادر[/b][/color][/size]
+[url=http://www.bitsend.info]BitSend الموقع الكتروني[/url]
+[url=http://coinmarketcap.com/currencies/bitsend/]سوق القطع النقدية[/url]
+[url=http://www.cryptosmile.com/2017/03/all-you-need-to-know-about-bitsend.html]Cryptosmile[/url]
+[url=http://saldigi.info/coin/BSD]Saldigi تشفير حول[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b] محفظة العملات الورقية [/b][/color][/size]
+[url=http://www.vanity-wallet.com/bsd/#]BitSend مولد المحفظة الورقية الخاص بي[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]Faucet[/b][/color][/size]
+[url=http://mybitsend.com/]MyBitSend Faucet[/url]
+[/td]
+[td]
+[color=#ecedf3]________________________________[/color]
+[size=13pt][color=#08298A][b]المستكشف[/b][/color][/size]
+
+[size=11pt][url=http://exp.mybitsend.com/][b]Exp.mybitsend.com[/b][/url][/size]
+[size=11pt][url=http://bitsend.midnightminer.net/][b]Midnightminer.net[/b][/url][/size] 
+[size=11pt][url=https://chainz.cryptoid.info/bsd][b]Chainz.cryptoid.info[/b][/url][/size]
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+[size=13pt][color=#08298A][b] التجار [/b][/color][/size]
+[url=http://bitcoin-engrave.com/]Bitcoin نقش [/url]
+[url=https://www.topshelftoker.com]Topshelftoker[/url]
+[url=https://www.pexpeppers.com/]PexPeppers[/url]
+[url=https://bitcointalk.org/index.php?topic=507103.0]C.A.T.[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]مجتمع[/b][/color][/size]
+[url=http://forum.bitsend.info]BitSend منتدى[/url]
+[url=https://twitter.com/Bit_send]تويتر[/url]
+[url=http://bitsend.info/forums/index.php?topic=155.0]توقيع & حملة الرمز [/url]
+[url=https://bitcointalk.org/index.php?topic=1856739] مسابقة الشعار [/url]
+[url=http://bittogether.com]bittogether.com[/url]	
+[/td]
+[td]
+[size=13pt][color=#08298A][b]الشركاء[/b][/color][/size]
+[url=http://cryptobunch.com/]cryptobunch.com[/url]
+[url=http://bitzco.net]bitzco.net[/url]
+[/td]
+[td]
+[size=13pt][color=#08298A][b]اضافة عقدة[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=38.0]@منتدى BitSend[/url]
+[/td]
+[/tr]
+[/table]
+
+[color=#ecedf3]________________________________________[/color]
+[hr]
+
+[size=13pt][color=#08298A][b]Bitsend شبكة[/b][/color][/size]
+
+[size=13pt][color=#08298A][b]قائمة الرهان[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=40.0]@منتدى BitSend[/url]
+
+[size=13pt][color=#08298A][b]Xevan خوارزمية ادوات التحصيل و[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?topic=95.0]@منتدى BitSend[/url]
+
+[size=13pt][color=#08298A][b]التقلبات والترقيات[/b][/color][/size]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=155.0] توقيع & حملة الرمز [/url]
+[size=11pt][color=#08298A]◢◤ [/color][/size][url=http://bitsend.info/forums/index.php?topic=18.0]Bitsend تقلبات[/url]
+
+[size=13pt][color=#08298A][b]BitSend التقرير المالي ل[/b][/color][/size]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2012-2015.pdf]Finance Report 12/2015[/url]
+[url=https://dl.dropboxusercontent.com/u/21000833/Bitsend/Report/BSD%20Report%2006-2016.pdf]Finance Report 12/2016[/url]
+
+[size=13pt][color=#08298A][b]تطوير و النقاش التقني[/b][/color][/size]
+[url=http://bitsend.info/forums/index.php?board=3.0]@منتدى BitSend[/url]
+
+
+[size=13pt][color=#08298A][b]كيف يمكنني المساهمة؟[/b][/color][/size]
+	
+فقط خطوة واحدة تفصلك عن مخازن (github)على الموقع
+ https://github.com/LIMXTEC/BitSend and start working.
+ يعمل المطورون في  مساراتهم الخاصة، ثم يقدمون طلبات السحب عندما يعتقدون أن تغييراتهم اصبحت ناضجة. ثم يتم مناقشة هذه الطلبات في المجتمع وإذا كان هناك توافق في الآراء فانها تحصل على موافقة بسرعة منصفة
+
+[hr]
+
+[size=13pt][color=#08298A][b] Bitsend فريق[/b][/color][/size]
+[size=9pt][color=#08298A][b]تطوير -النواة -اندرويد[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b] تطوير -النواة -موسس-المنظمة:[/b] Chris - Germany Karlsruhe [url=https://bitcointalk.org/index.php?action=profile;u=389271]limx dev[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b] تطوير -النواة -اندرويد:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=196149]a.lateminer[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]تطوير-النواة:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=543861]joshafest[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]تطوير-النواة-اندرويد:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=388524]c00p3r[/url]
+[size=9pt][color=#08298A][b]التسويق[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]التسويق - توقيع المدير - المستشار الاساسي:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=101872]Lauda[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]تسويق - تويتر - الشبكة الاجنماعية -المستشار الاساسي:[/b] Steve - Germany Frankfurt [url=https://bitcointalk.org/index.php?action=profile;u=191117]metamorphin[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]التسويق - المستشار الاساسي - Mybitsend.com:[/b] Jon - Germany Dortmund [url=https://bitcointalk.org/index.php?action=profile;u=132212]Darkjon[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Core Consultant:[/b] Helmut [url=https://bitcointalk.org/index.php?action=profile;u=206368]cryptonit[/url]
+[size=9pt][color=#08298A][b]الدعم[/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b] تكنولوجيا المبشر:[/b] Matthias - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=333146]szenekonzept[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]Founder:[/b] Sebastian - Germany Bochum [url=https://bitcointalk.org/index.php?action=profile;u=376487]LIMX Support[/url]
+[size=9pt][color=#08298A][b]برامج الجني [/b][/color][/size]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b]مطوري تحصيلGPU:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=80740]Wolf0[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b] مطوري تحصيلCPU:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=154606]elbandi[/url]
+[size=9pt][color=#08298A]◢◤ [/color][/size][size=11pt][b] مطوري تحصيلCPU:[/b] [url=https://bitcointalk.org/index.php?action=profile;u=164852]pallas[/url]
+[hr]
+
+[size=13pt][color=#08298A][b] ترجمة [/b][/color][/size]
+[table][tr][td][color=#ecedf3]_____________________________________[/color]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1892979][b]Italian[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1896201][b]French[/b][/url] 
+[/size][size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1371047.0][b]Russian[/b][/url] (Author: [url=https://bitcointalk.org/index.php?action=profile;u=344996]diks[/url])[/size][size=13pt]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1905271][b]Philippines (Filipino)[/b][/url][/size]
+[/td][td][color=#ecedf3]_____________________________________[/color]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1412235][b]German[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1892665][b]Spanish[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1882127.0][b]Turkey[/b][/url][/size]
+[size=13pt][color=#08298A]◢◤ [/color][/size][size=13pt][url=https://bitcointalk.org/index.php?topic=1904728.0][b]Chinese[/b][/url][/size]
+[/td]
+[/tr]
+[/table]
+[/center]
